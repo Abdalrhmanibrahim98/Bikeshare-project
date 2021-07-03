@@ -11,7 +11,7 @@ days=['Monday','Tuesday','Wednesday','Thursday','Friday','Saturday','Sunday','Al
 
 def get_filters():
 
-    print('Hello! Let\'s explore some US bikeshare data!')
+    print('Hello! Ready to explore some US bikeshare data?!')
 
     while True:
         city=str(input('Please specify a city from Chicago, New York City and Washington: ')).lower()
