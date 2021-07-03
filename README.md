@@ -8,3 +8,7 @@ In this project, Python code were written to import US bike share data and answe
 
 ### Files used
 Three .csv files (one for each city) were used in this project; chicago.csv, new_york_city.csv and washington.csv.
+
+### Credits
+Udacity Git Commit Message Style Guide helped me writing descriptive commit messages
+https://review.udacity.com/#!/reviews/3025210
